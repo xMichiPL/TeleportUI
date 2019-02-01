@@ -1,0 +1,9 @@
+name: TeleportUI
+api: [3.0.0]
+version: 1.0
+main: TeleportUI\Main
+author: Lover_BOY636
+
+commands:
+ tpui:
+  description: "Teleport to player."
